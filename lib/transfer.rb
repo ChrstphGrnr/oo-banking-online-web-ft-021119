@@ -13,6 +13,7 @@ class Transfer
     @receiver.valid? == true
   end
 
+  def 
 
 
 end
