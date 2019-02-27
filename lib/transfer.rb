@@ -24,5 +24,6 @@ class Transfer
       "The transaction was rejected."
 
     end
+  end
 
 end
