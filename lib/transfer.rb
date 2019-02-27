@@ -20,7 +20,7 @@ class Transfer
       receiver.transfer(amount)
       @status = "completed"
     else
-      status = "rejected"
+      @status = "rejected"
       "The transaction was rejected."
 
     end
